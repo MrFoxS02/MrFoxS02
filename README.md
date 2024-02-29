@@ -91,9 +91,8 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrFoxS02&repo=Marvelmind-client-server&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Marvelmind-client-server" />
-</a>
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=MrFoxS02&repo=YouTubeDataParser&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/MrFoxS02/YouTubeDataParser)
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=MrFoxS02&repo=Marvelmind-client-server&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/MrFoxS02/Marvelmind-client-server)
 
 ## Contact Me 
 
