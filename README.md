@@ -71,7 +71,7 @@
   <a href="https://github.com/MrFoxS02/YouTubeDataParser">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=MrFoxS02&repo=YouTubeDataParser&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" alt="YouTube Data Parser" />
   </a>
-  <a href="https://github.com/MrFoxS02/Marvelmind-client-server">
+  <a href="https://github.com/MrFoxS02/VectorVisualizer">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=MrFoxS02&repo=Marvelmind-client-server&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" alt="Marvelmind Client Server" />
   </a>
 </div>
