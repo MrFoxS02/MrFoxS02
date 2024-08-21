@@ -66,7 +66,7 @@
 </div>
 
 ## 🗂️ Highlight Projects
-
+https://github.com/MrFoxS02/sql-learning-queries
 <div align="center">
   <a href="https://github.com/MrFoxS02/YouTubeDataParser">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=MrFoxS02&repo=YouTubeDataParser&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" alt="YouTube Data Parser" />
@@ -75,6 +75,11 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=MrFoxS02&repo=Marvelmind-client-server&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" alt="Marvelmind Client Server" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/MrFoxS02/YouTubeDataParser">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=MrFoxS02&repo=sql-learning-queries&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" alt="SQL Learning Queries" />
+  </a>
+</div> 
 
 ## Contact Me
 
